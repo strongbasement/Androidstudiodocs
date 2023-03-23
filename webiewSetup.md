@@ -2,7 +2,7 @@
 
 ### step-2 :give a name to your project select language as java
 
-### step 3:open manifest folder and click on andriod manifest
+### step 3:open manifest folder and click on android manifest
 
 note best this code above <application
 
